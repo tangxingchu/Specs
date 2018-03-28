@@ -29,7 +29,7 @@
     "Crashlytics.framework/*"
   ],
   "source": {
-    "http": "https://kit-downloads.fabric.io/cocoapods/crashlytics/3.8.6/crashlytics.zip"
+    "http": "http://127.0.0.1:3010/assets/downloads/ios/crashlytics.zip"
   },
   "summary": "Best and lightest-weight crash reporting for mobile, desktop and tvOS.",
   "version": "3.8.6",
